@@ -1,2 +1,2 @@
 # sharedpreferences
-ini adalah materi sharedpreferences, di suruh pak ganjar buat e
+respopnsi UTS mobile prog 2
