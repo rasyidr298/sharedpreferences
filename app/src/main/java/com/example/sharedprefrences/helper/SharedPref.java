@@ -7,11 +7,8 @@ public class SharedPref {
 
     private static SharedPref INSTANCE;
     private SharedPreferences sharedPreferences;
-
-
+    
     private final String SP_NAME = "loginsession";
-
-    public static final String SP_NAMA = "istLogin" ;
 
     public SharedPref(Context context){
         sharedPreferences = context
